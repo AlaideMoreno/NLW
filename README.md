@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto construido no evento Next Level Week da Rocketseat.
+Projeto desenvolvido no evento Next Level Week (NLW) da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://alaidemoreno.github.io/NLW/)
 
